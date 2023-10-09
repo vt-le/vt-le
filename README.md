@@ -1,7 +1,7 @@
 Hi there, I am Felix (Viet-Tuan Le).
 - 👨🏼‍💻 I’m a Ph.D. student at Sejong University, Korea.
 - 🔭 I’m currently working on **Generative AI** and **Anomaly Detection**.
-- 📖 Recent works: [Motion-guided Prediction](https://moguprediction.github.io/) and [HSTforU](https://vt-le.github.io/HSTforU/), a **Transformer-based model** and **Guided model** for **Video anomaly detection**.
+- 📖 Recent works: [Motion-guided Prediction](https://moguprediction.github.io/) and [HSTforU](https://vt-le.github.io/HSTforU/), a **guided model** and **transformer-based model** for **Video anomaly detection**.
 
 
 
